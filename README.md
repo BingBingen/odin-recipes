@@ -13,4 +13,4 @@ Project 1 of the Odin Project.
 ]
 
 This will serve as a review for me in web and, more generally, software development
-[June 6, 2026]
+Completed[June 6, 2026] - [June 7,2026]
