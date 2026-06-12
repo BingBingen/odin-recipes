@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*outline: 1px solid red;*/
 }
 
 body{
@@ -20,9 +21,13 @@ body{
 ul, ol{
     background-color: rgb(186, 229, 186);
     border-radius: 30px;
-    margin: 30px;
     padding: 10px 20px;
     font-size: 1em;
+    margin: 0px 20px 0px 20px;
+}
+
+#recipe-box{
+    margin: 20px 30px 0px 30px;
 }
 
 li{
@@ -31,4 +36,24 @@ li{
 
 h3{
     color: blue
+}
+
+/* Recipes.html FORMAT (Some of the above declaration blocks
+obviously have effects on the other 3 recipes.html file but 
+this section is targetting those 3 files. */
+
+#recipe-intro{
+    margin: -25px 0px 25px 0px;
+}
+
+.return-home{
+    display:block;
+    text-align: end;
+}
+
+.subsection{
+    color:#5e8bbb;
+    font-size: 1.3rem;
+    margin-bottom: 5px;
+    margin-top: 20px;
 }
